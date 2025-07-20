@@ -1,0 +1,30 @@
+.nama {
+    font-size:large
+}
+
+.nama_saya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.julukan {
+    font-size: smaller;
+    font-family: story element;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gambar-saya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gambar-saya-yang-asli {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
